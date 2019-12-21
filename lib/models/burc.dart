@@ -1,6 +1,6 @@
 class Burc{
 
-  String _burcAdi; //_ private tanimlamak icin
+  String _burcAdi; 
   String _burcTarihi;
   String _burcDetayi;
   String _burcKucukResim;
@@ -32,7 +32,7 @@ class Burc{
   set burcTarihi(String value) {
     _burcTarihi = value;
   }
-
+//
   String get burcAdi => _burcAdi;
 
   set burcAdi(String value) {
