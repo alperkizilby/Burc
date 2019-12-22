@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_burc_rehberi/burc_liste.dart';
+import 'package:flutter_burc_rehberi/burc_liste.dart';//burclari getiriyoruz
 import 'package:flutter_burc_rehberi/models/burc.dart';
 import 'package:palette_generator/palette_generator.dart';
 
