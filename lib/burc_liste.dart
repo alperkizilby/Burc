@@ -51,8 +51,8 @@ class BurcListesi extends StatelessWidget {
           onTap: ()=> Navigator.pushNamed(context, "/burcDetay/$index") ,
           leading: Image.asset(
             "images/" + oAnListeyeEklenecekBurc.burcKucukResim,
-            width: 64,
-            height: 64,
+            width: 65,
+            height: 65,
           ),
           title: Text(
             oAnListeyeEklenecekBurc.burcAdi,
