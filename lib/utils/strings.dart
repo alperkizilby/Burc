@@ -194,7 +194,7 @@ class Strings {
   "\t Anlaştığınız burçlar: Boğa, Başak\n\n"
   "\t Anlaşamadığınız burçlar: Koç, Yengeç, Terazi\n\n"
   "\t Başarılı olacağınız meslekler: Güzellik uzmanlığı, mimarlık, madencilik, doktorluk, kuyumculuk\n\n"
-  "\t Burcunuzdan olan ünlüler:  Filiz Akın, Semra Özal, Benjamin Franklin, Elvis Presley, Isaac Newton\n\n",
+  "\t Burcunuzdan olan ünlüler: Isaac Newton, Filiz Akın, Semra Özal, Benjamin Franklin, Elvis Presley \n\n",
 
 
 
